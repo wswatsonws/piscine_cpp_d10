@@ -1,4 +1,4 @@
-/* This is my copyright.*//* Watson */
+/* This is my copyright.*/
 /* Watson */
 #ifndef EX04_HPP_/* Watson */
 #define EX04_HPP_/* Watson */
